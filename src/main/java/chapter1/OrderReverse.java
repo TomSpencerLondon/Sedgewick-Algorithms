@@ -14,7 +14,7 @@ public class OrderReverse {
 
 
     for (int i = 0; i < list.length - (i + 1); i++) {
-      int copy = list[list.length - (i + 1)]; // 6
+      int copy = list[list.length - (i + 1)]; // 5
       list[list.length - (i + 1)] = list[i];
       list[i] = copy;
     }

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc1977a-fb2e-4505-94c3-3ab1c729ff73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/OrderReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/SmallestRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter1/OrderReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/OrderReverse.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,7 @@
   <component name="ProjectId" id="1ZH6g9o4X0EtRQE0tHTRZGzK5tX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -41,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OrderReverse">
+  <component name="RunManager" selected="Application.SmallestRectangle">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.Factorial" />
       <module name="AlgorithmsSedgewick" />
@@ -57,6 +59,19 @@
     </configuration>
     <configuration name="OrderReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.OrderReverse" />
+      <module name="AlgorithmsSedgewick" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.SmallestRectangle" />
       <module name="AlgorithmsSedgewick" />
       <extension name="coverage">
         <pattern>
@@ -91,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallestRectangle" />
         <item itemvalue="Application.OrderReverse" />
         <item itemvalue="Application.Factorial" />
       </list>
@@ -106,8 +122,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584483780422</updated>
-      <workItem from="1584483784604" duration="725000" />
+      <workItem from="1584483784604" duration="1110000" />
     </task>
+    <task id="LOCAL-00001" summary="Add orderReverse for reversing the order of an array of integers">
+      <created>1584484670627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584484670627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,5 +147,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add orderReverse for reversing the order of an array of integers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add orderReverse for reversing the order of an array of integers" />
   </component>
 </project>

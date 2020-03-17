@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc1977a-fb2e-4505-94c3-3ab1c729ff73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/GreatestCommonDenominator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/BinaryString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +29,12 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Sedgewick-Algorithms" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,7 +48,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GreatestCommonDenominator">
+  <component name="RunManager" selected="Application.BinaryString">
+    <configuration name="BinaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.BinaryString" />
+      <module name="AlgorithmsSedgewick" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.Factorial" />
       <module name="AlgorithmsSedgewick" />
@@ -118,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryString" />
         <item itemvalue="Application.GreatestCommonDenominator" />
         <item itemvalue="Application.SmallestRectangle" />
         <item itemvalue="Application.OrderReverse" />
@@ -135,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584483780422</updated>
-      <workItem from="1584483784604" duration="1610000" />
+      <workItem from="1584483784604" duration="2784000" />
     </task>
     <task id="LOCAL-00001" summary="Add orderReverse for reversing the order of an array of integers">
       <created>1584484670627</created>
@@ -151,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584485150067</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add gcd method to find greatest common denominator from two numbers recursively.">
+      <created>1584485471757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584485471757</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add orderReverse for reversing the order of an array of integers" />
     <MESSAGE value="Add function to find coordinates for smallest rectangle given two arrays of coordinates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add function to find coordinates for smallest rectangle given two arrays of coordinates" />
+    <MESSAGE value="Add gcd method to find greatest common denominator from two numbers recursively." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gcd method to find greatest common denominator from two numbers recursively." />
   </component>
 </project>

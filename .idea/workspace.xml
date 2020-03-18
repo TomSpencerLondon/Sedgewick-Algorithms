@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc1977a-fb2e-4505-94c3-3ab1c729ff73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/Exercise13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter1/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/Exercise5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise5">
+  <component name="RunManager" selected="Application.Exercise13">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.Exercise1" />
       <module name="AlgorithmsSedgewick" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.Exercise2" />
+    <configuration name="Exercise13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.Exercise13" />
       <module name="AlgorithmsSedgewick" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise13" />
         <item itemvalue="Application.Exercise5" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.Exercise4" />
         <item itemvalue="Application.Exercise3" />
-        <item itemvalue="Application.Exercise2" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584483780422</updated>
-      <workItem from="1584483784604" duration="6768000" />
+      <workItem from="1584483784604" duration="7504000" />
     </task>
     <task id="LOCAL-00001" summary="Add orderReverse for reversing the order of an array of integers">
       <created>1584484670627</created>
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584517378397</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add recursive binaryConverter function. This uses guard of if (num &gt; 0) then assigns num % 2 to int y and then returns itself with paraater s num / 2 + &quot;&quot; + y">
+      <created>1584518284648</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584518284648</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +254,7 @@
     <MESSAGE value="Add equal method" />
     <MESSAGE value="Add method to return true if numbers are between 0 and 1." />
     <MESSAGE value="Add function with for (int n = num; n &gt; 0; n /= 2) to convert number to binary using string interpolation: binary = (n % 2) + binary where binary is set to &quot;&quot; at beginning of method." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add function with for (int n = num; n &gt; 0; n /= 2) to convert number to binary using string interpolation: binary = (n % 2) + binary where binary is set to &quot;&quot; at beginning of method." />
+    <MESSAGE value="Add recursive binaryConverter function. This uses guard of if (num &gt; 0) then assigns num % 2 to int y and then returns itself with paraater s num / 2 + &quot;&quot; + y" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add recursive binaryConverter function. This uses guard of if (num &gt; 0) then assigns num % 2 to int y and then returns itself with paraater s num / 2 + &quot;&quot; + y" />
   </component>
 </project>

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cc1977a-fb2e-4505-94c3-3ab1c729ff73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/Exercise13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6cc1977a-fb2e-4505-94c3-3ab1c729ff73" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +152,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584483780422</updated>
-      <workItem from="1584483784604" duration="7504000" />
+      <workItem from="1584483784604" duration="7756000" />
     </task>
     <task id="LOCAL-00001" summary="Add orderReverse for reversing the order of an array of integers">
       <created>1584484670627</created>
@@ -227,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584518284648</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add function to transpose array from consecutive numbers in rows to consecutive numbers in columns. This uses a nested for lop and then adds the correct iteration of each list to the new array such that each new row has the first, second and third numbers of each row consecutively.">
+      <created>1584519082469</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584519082469</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +259,7 @@
     <MESSAGE value="Add method to return true if numbers are between 0 and 1." />
     <MESSAGE value="Add function with for (int n = num; n &gt; 0; n /= 2) to convert number to binary using string interpolation: binary = (n % 2) + binary where binary is set to &quot;&quot; at beginning of method." />
     <MESSAGE value="Add recursive binaryConverter function. This uses guard of if (num &gt; 0) then assigns num % 2 to int y and then returns itself with paraater s num / 2 + &quot;&quot; + y" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add recursive binaryConverter function. This uses guard of if (num &gt; 0) then assigns num % 2 to int y and then returns itself with paraater s num / 2 + &quot;&quot; + y" />
+    <MESSAGE value="Add function to transpose array from consecutive numbers in rows to consecutive numbers in columns. This uses a nested for lop and then adds the correct iteration of each list to the new array such that each new row has the first, second and third numbers of each row consecutively." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add function to transpose array from consecutive numbers in rows to consecutive numbers in columns. This uses a nested for lop and then adds the correct iteration of each list to the new array such that each new row has the first, second and third numbers of each row consecutively." />
   </component>
 </project>

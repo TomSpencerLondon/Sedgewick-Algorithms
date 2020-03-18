@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc1977a-fb2e-4505-94c3-3ab1c729ff73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/Exercise4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise3">
+  <component name="RunManager" selected="Application.Exercise4">
     <configuration name="BinaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.BinaryString" />
       <module name="AlgorithmsSedgewick" />
@@ -101,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestCommonDenominator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.GreatestCommonDenominator" />
+    <configuration name="Exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.Exercise4" />
       <module name="AlgorithmsSedgewick" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise4" />
         <item itemvalue="Application.Exercise3" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.BinaryString" />
-        <item itemvalue="Application.GreatestCommonDenominator" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584483780422</updated>
-      <workItem from="1584483784604" duration="4019000" />
+      <workItem from="1584483784604" duration="4223000" />
     </task>
     <task id="LOCAL-00001" summary="Add orderReverse for reversing the order of an array of integers">
       <created>1584484670627</created>
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584490738619</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add equal method">
+      <created>1584490906763</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584490906763</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +230,7 @@
     <MESSAGE value="Add binaryString method to recursively add binary numbers to a string to represent numbers in binary format" />
     <MESSAGE value="Add exercise 1 to check result of (0 + 15) / 2 = 7, 2.0e-6 * 1000000000.1 = 200.000000002, true" />
     <MESSAGE value="Add Exercise2 expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Exercise2 expressions" />
+    <MESSAGE value="Add equal method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add equal method" />
   </component>
 </project>

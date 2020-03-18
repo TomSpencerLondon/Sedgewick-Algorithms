@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cc1977a-fb2e-4505-94c3-3ab1c729ff73" name="Default Changelist" comment="" />
+    <list default="true" id="6cc1977a-fb2e-4505-94c3-3ab1c729ff73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithms-Sedgewick.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1/Exercise17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +26,12 @@
   <component name="ProjectId" id="1ZH6g9o4X0EtRQE0tHTRZGzK5tX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Sedgewick-Algorithms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise13">
+  <component name="RunManager" selected="Application.Exercise17">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.Exercise1" />
       <module name="AlgorithmsSedgewick" />
@@ -72,9 +78,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.Exercise3" />
-      <module name="AlgorithmsSedgewick" />
+    <configuration name="Exercise17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.Exercise17" />
+      <module name="Algorithms-Sedgewick" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter1.*" />
@@ -134,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise17" />
         <item itemvalue="Application.Exercise13" />
         <item itemvalue="Application.Exercise5" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.Exercise4" />
-        <item itemvalue="Application.Exercise3" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584483780422</updated>
       <workItem from="1584483784604" duration="7756000" />
+      <workItem from="1584575101872" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="Add orderReverse for reversing the order of an array of integers">
       <created>1584484670627</created>
@@ -242,7 +249,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
